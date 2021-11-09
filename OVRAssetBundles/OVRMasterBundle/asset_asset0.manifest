@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1622908115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 724abc4878d1a95f942c95439a3dd53a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc647f04ef22d3fcc7f2bbc61101d975
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff01874686b20654eae2baf806bfb071, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c321887a31a46f4da9cc5f3a7c14511, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/(Setting)/VehicleControllerInput/VehicleInputSettingsPC.asset
+- Assets/(Font)/msjhbd_SDFAA_969.asset
+- Assets/(Setting)/ForkliftControllerInput/ForkliftInputSettingsPC.asset
+- Assets/(Font)/msjhbd_SDFAA_952_a.asset
+- Assets/(Font)/msjhbd_SDFAA_969 1.asset
+- Assets/(Font)/digital_SDFAA_73 1.asset
+Dependencies:
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_ttc0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_ttf0

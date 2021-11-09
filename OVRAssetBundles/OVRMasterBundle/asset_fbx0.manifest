@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2020314475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b37af2ee2f334b1aef90cad7d741867d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 490d7eb295c336de330bb18d039871be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Env/laxer tree pkg/Models/baum hd med fbx.fbx
+- "Assets/(Model)/\u7B2C\u4E8C\u5834\u5730v4.FBX"
+- "Assets/Env/\u68E7\u677F/Wooden_Pallets3.fbx"
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- "Assets/(Model)/\u8CA8\u67B620201013.fbx"
+- Assets/Env/laxer tree pkg/Models/baum hd pine fbx.fbx
+- "Assets/(Model)/\u7B2C\u4E09\u5834\u5730.FBX"
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/SelectionCylinder.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Env/laxer tree pkg/Models/baum hd fbx.fbx
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/ControllerBox.FBX
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/TrainPalette.FBX
+- Assets/(Model)/Sitting Idle Man.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- "Assets/Env/\u6CB9\u6876/Barrel.fbx"
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/(Model)/20201119v28.FBX
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/(Model)/key.fbx
+Dependencies:
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_tif0

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3280327484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80e7f68b162be7083366a182d45ea791
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4606480fa198821175b572118a14614
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainSceneSettings.lighting
+- Assets/(Scene)/ThirdStationSettings.lighting
+Dependencies: []

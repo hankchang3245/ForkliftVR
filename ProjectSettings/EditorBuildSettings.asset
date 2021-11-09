@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/(Scene)/MainMenu.unity
+    guid: a0e0a757c5e7e634fae55401abb5de7c
+  - enabled: 1
+    path: Assets/(Scene)/Setting.unity
+    guid: eeee764b732918d44aeb6d9a712853d5
+  - enabled: 1
+    path: Assets/(Scene)/ForkliftBasicTraining.unity
+    guid: 73fbecb0511adc34191fb8e7d82c7d5c
+  - enabled: 1
+    path: Assets/(Scene)/ForkliftAdvTraining.unity
+    guid: 24f4e5abbb00bea4fb7dcbab6b987f08
+  - enabled: 1
+    path: Assets/(Scene)/ForkliftComponentBrief.unity
+    guid: 567e7dd06ca2c16409b14f09cbcbc0c5
+  - enabled: 1
+    path: Assets/(Scene)/ForkliftTesting.unity
+    guid: a481a4b6702645e45b231a4cfdda087a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4d45b6d06e1db614eb8d5724e630c688, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 23db5884d8ee1c84298a16f384f555da, type: 2}

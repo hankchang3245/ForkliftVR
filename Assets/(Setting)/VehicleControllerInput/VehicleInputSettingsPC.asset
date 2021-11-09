@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c321887a31a46f4da9cc5f3a7c14511, type: 3}
+  m_Name: VehicleInputSettingsPC
+  m_EditorClassIdentifier: 
+  toggleEngine: 116
+  acceleration: 273
+  reverse: 274
+  turnRight: 275
+  turnLeft: 276
+  brakes: 32
+  handbrakeEnable: 277
+  handbrakeDisable: 127
+  clutch: 304
+  horn: 104
+  headlights: 108
+  interiorLights: 105
+  leftSignalLights: 110
+  rightSignalLights: 109
+  cameraLookLeftTop: 113
+  cameraLookLeftBottom: 97
+  cameraLookLeftBackward: 122
+  cameraLookRightTop: 101
+  cameraLookRightBottom: 100
+  cameraLookRightBackward: 99
+  cameraLookForward: 119
+  cameraLookCenter: 115
+  cameraLookBackward: 120
+  cameraLookUp: 117
+  cameraLookDown: 106
+  toggleCamera: 99
+  resetVehiclePosition: 111
+  goToLastPosition: 48
+  goTo2ndLastPosition: 49
+  goTo3rdLastPosition: 50
+  cleanObstacle: 121
+  gearPositionPark: 279
+  gearPositionNeutral: 278
+  gearPositionDrive: 280
+  gearPositionReverse: 281
+  customEventTriggers: 

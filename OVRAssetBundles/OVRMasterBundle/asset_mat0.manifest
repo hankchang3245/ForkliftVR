@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 656676670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da5c13e5c674d4767f5297ca136fdc7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb3e1e8b95a0f3e4d29bdb270818411e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/HandsNotificationMaterial.mat
+- "Assets/(Material)/\u8003\u5834/09.mat"
+- Assets/(Material)/mat_Yellow.mat
+- "Assets/Env/\u6CB9\u6876/Materials/08.mat"
+- "Assets/Env/\u68E7\u677F/Materials/01.mat"
+- "Assets/(Material)/\u8003\u5834/10.mat"
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/RayMaterial.mat
+- "Assets/(Material)/\u8003\u5834/M01.mat"
+- Assets/Env/laxer tree pkg/Models/Materials/ast3 lw.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/TargetMaterial.mat
+- "Assets/(Material)/\u8003\u5834/06.mat"
+- Assets/Env/laxer tree pkg/Textures/04.mat
+- Assets/(Material)/TeleportPointText.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/PropMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SmokeMat.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SkyboxForRealtime.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/GridMat.mat
+- Assets/(Material)/mat_Cross.mat
+- Assets/Env/laxer tree pkg/Models/Materials/bark wh.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinderBase.mat
+- Assets/Env/laxer tree pkg/Models/Materials/ast4.mat
+- "Assets/Env/\u6CB9\u6876/Materials/Barrel-Barrel.mat"
+- Assets/Env/laxer tree pkg/Models/Materials/ast5 lw.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/WindmillMaterial.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_Left.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SkeletonBoneMaterial.mat
+- "Assets/Env/\u68E7\u677F/Materials/Wooden_Pallets3-Material_001__final_tga.mat"
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBoxButtons.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+Dependencies:
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_tga0

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 315521146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5ca0933a6e70d27cdf75ddcf464a787
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c92feb8daf166311b3e47737bd87795
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Env/laxer tree pkg/Textures/ast3.png
+- Assets/(Texture)/HandsNotification.png
+- Assets/(Model)/DrivingMan.fbm/Ch01_1001_Normal.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/Lightmap-1_comp_dir.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_main_elements_Normal.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/selection_cylinder.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Front+Z.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/SmokeBillow_atlas_001_v2.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Down-Y.png
+- Assets/(Texture)/calibration-ok.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/Smoke30Frames.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/HandsNotification.png
+- "Assets/(Model)/\u4EA4\u901A\u687F\u8CBC\u5716_\u504F\u6A58.png"
+- Assets/Env/laxer tree pkg/Textures/bark pine wh.png
+- Assets/(Texture)/_SignCross.png
+Dependencies: []

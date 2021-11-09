@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4037884985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73877c18d287ca27f11a0e0f534a11de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a1d5faca7eff35f571ccb30e0874f9b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/Lightmap-0_comp_dir.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/(Texture)/calibration-none.png
+- "Assets/(Material)/\u8003\u5834/\u8CA8\u67B620201013_lambert1_MetallicSmoothness.png"
+- Assets/Env/laxer tree pkg/Textures/ast5.png
+- Assets/Env/laxer tree pkg/Textures/ast4.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_bg_elements_Normal.png
+- "Assets/(Material)/\u8003\u5834/\u8CA8\u67B620201013_lambert1_Normal.png"
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Back-Z.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Left+X.png
+- Assets/(Texture)/bt_connect (1).png
+- "Assets/(Material)/\u8003\u5834/\u8CA8\u67B620201013_lambert1_AlbedoTransparency.png"
+- Assets/(Texture)/bt_disconnect.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/grid_10x10_v4.png
+- "Assets/(Texture)/\u7DA0\u8272\u5708\u5708.png"
+- Assets/(Texture)/bt_connect.png
+- "Assets/(Material)/\u8003\u5834/\u4EA4\u901A\u687F\u8CBC\u5716_\u504F\u9EC3.png"
+- Assets/(Model)/DrivingMan.fbm/Ch01_1001_Diffuse.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/controller_plain_Normal.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Up+Y.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Right-X.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/XingLight.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/selection_cylinder_filled.png
+- Assets/Env/laxer tree pkg/Textures/bark wh.png
+- "Assets/(Material)/\u8003\u5834/YB.png"
+- Assets/(Texture)/bt_disconnect (1).png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/ReflectionProbe-0.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/controller_plain_DiffuseGlossiness.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_main_elements_DiffuseGlossiness.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_bg_elements_DiffuseGlossiness.png
+Dependencies: []

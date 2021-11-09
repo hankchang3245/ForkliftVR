@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2847307042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2a03cfd7d6394cb6fb8bf2274b63e73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb3e1e8b95a0f3e4d29bdb270818411e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/(Model)/new_steel.mat
+- Assets/(Material)/mat_Emission.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/XingLightMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBoxGlow.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_Right.mat
+- Assets/(Material)/matHumanSkin6.mat
+- Assets/Env/laxer tree pkg/Models/Materials/bark pine wh.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/DefaultHandMaterial.mat
+- Assets/Env/laxer tree pkg/Models/Materials/ast3.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinder.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/PokeMaterial.mat
+- Assets/(Material)/mat_Wall1.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureSkeletonBoneMaterial.mat
+- Assets/(Material)/mat_ControllerBoxButtons.mat
+- Assets/(Material)/mat_KeyMetal.mat
+- "Assets/(Material)/\u8003\u5834/12.mat"
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBox.mat
+- Assets/Env/laxer tree pkg/Models/Materials/ast4 lw.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureHandMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/BackgroundMaterial.mat
+- Assets/(Material)/mat_ControllerBox.mat
+- Assets/(Material)/mat_Black.mat
+- Assets/(Material)/mat_HandsNotificationMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01Mat.mat
+- Assets/Env/laxer tree pkg/Textures/05.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SmokeBillowMat.mat
+- Assets/(Material)/mat_Fork.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/(Material)/mat_ControllerBoxGlow.mat
+- Assets/Env/laxer tree pkg/Models/Materials/ast5.mat
+Dependencies:
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_tga0

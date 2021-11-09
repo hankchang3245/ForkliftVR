@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1463521427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f5b487e193205866209821e586f7d30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/(Model)/Komatsu_BX50.fbm/Komatsu_BX50_color_plastics2.tif
+- Assets/(Model)/Komatsu_BX50.fbm/Komatsu_BX50_dashboard.tif
+- Assets/(Model)/Komatsu_BX50.fbm/Komatsu_BX50_body_paint.tif
+- Assets/(Model)/Komatsu_BX50.fbm/Komatsu_BX50_seat_belt_reflect.tif
+- Assets/(Model)/Komatsu_BX50.fbm/Komatsu_BX50_tire_cushion_bump.tif
+Dependencies: []

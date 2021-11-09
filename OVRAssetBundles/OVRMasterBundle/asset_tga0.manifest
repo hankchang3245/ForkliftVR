@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 773467931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7de76df660dac15fc815df26b8def8e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 525b72fdacf3aef7d65f355ad8f17a96
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Env/\u68E7\u677F/Woodenpallet3_D.tga"
+- "Assets/Env/\u6CB9\u6876/Barrel_D2.tga"
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Right.TGA
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Roughness.tga
+- "Assets/Env/\u6CB9\u6876/Barrel_D1.tga"
+- "Assets/(Material)/\u8003\u5834/\u6C34\u6CE5.TGA"
+- Assets/Oculus/VR/Textures/OculusTouchForQuestAndRiftS/OculusQuestTouchControllerTexture.tga
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Left.TGA
+Dependencies: []

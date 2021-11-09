@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3229881585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 278cbd92d0b3f8a9658fde40c4ba448c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c92feb8daf166311b3e47737bd87795
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/(Texture)/skin_swatch_by_lanbo_d1o6rih.jpg
+- Assets/(Model)/Komatsu_BX50.fbm/Tires_dirt_gloss.jpg
+- Assets/(Model)/Komatsu_BX50.fbm/Leather_glossy.jpg
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/ButtonGlow.jpg
+- Assets/(Texture)/_rick_01.jpg
+- Assets/(Model)/Komatsu_BX50.fbm/Tires_dirt_diff.jpg
+Dependencies: []

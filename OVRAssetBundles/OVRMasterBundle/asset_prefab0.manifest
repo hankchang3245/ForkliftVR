@@ -1,0 +1,204 @@
+ManifestFileVersion: 0
+CRC: 2312366146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04f3bccf05fcb015d6f134503954192a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f530d694fc83a86d7aa0d29276dc0e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 605a8ce1870f78943ac552405ac9888b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb6cbb133f32d4c4092ba08e3b449db4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 069b40e3538ec5846bcfdcd838058ca0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9371de340bd2354abd621fadfb9f78d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aed62bf3ae2456c408f247f96808ce96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cc5c234723e3a54d8dd09b131117743, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 372bfc34356a4b942b6aee9728efd078, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 136d8874dcb596344830370a03f38663, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 776594a4e4bce3b41996600cc322a2ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 674a40251fe8ad841b18517ac5209957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff89fc657eb094e5a8516b7747bfae69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5a3ef75653a3e84281bf84f8b8575c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a7acab7bf364b344bf233c928f66c16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85fb71180be543b44a6c8c1e4253dce4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54c16b381e28e8d479237771d234dbae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb7623a8f0b49cf4dbaa40aea4d4be64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f58463a8ddf862a45a7a5dbd85d11ffd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83ffd5d8c717af84394416b29a9135e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3cef619d7aea944392801ab187c4a68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4e71869e3ccfde47a7a16e2f483b328, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bda88dc9eddd741f78044258de538161, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 286a680ab908503489d2d5449f01c521, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4f4a67a39aed1949b30119eb9ae870d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73eac66b128fc8749a21623225c34541, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68a26abcaa6c9634681e21c3d4eb1efe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53159ccc00b5ed74b8e54ec5df70448f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 259ea23d7ff2ea54fa782b0ee556c149, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 904065bdb0d22d142ba3c96c440cb30a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5433fd5e0ec48eb49bc3800898ea0f0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d778f6e8fb868247b9f0c8ef05dfe41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c4a207e5bbb3c044b6c3eb819981d8b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ded892ce0d9b4e043844fcfd27b63b7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2024530f3965e724092b9704660ebf52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8bfac2fa4b437b4e891bd82f393ff0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2609c54f376cffc4da1ab9401cc1a36f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95090eefe50e77847b9b4f3eec29fea0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/FingerTipPokeToolIndex.prefab
+- Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/RayTool.prefab
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/FarFieldItems.prefab
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/HandsManager.prefab
+- "Assets/(Prefab)/\u5916\u90E8\u90E8\u4EF6.prefab"
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/RightSegment.prefab
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/HandsNotification.prefab
+- "Assets/Env/\u6A39/Mobile/baum ld0 mobile.prefab"
+- "Assets/(Prefab)/\u5167\u90E8\u7269\u4EF6.prefab"
+- Assets/(Prefab)/HandsNotification.prefab
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/LeftSegment.prefab
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/SimpleTrainTrack.prefab
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/StraightSegment.prefab
+- Assets/(Prefab)/ForkliftCarNew2.prefab
+- Assets/(Prefab)/ShowDebugUI.prefab
+- "Assets/Env/\u6A39/Mobile/baum ld1 mobile.prefab"
+- "Assets/(Prefab)/\u4EA4\u901A\u687F(\u5C0F).prefab"
+- "Assets/Env/\u6CB9\u6876.prefab"
+- Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab
+- Assets/Oculus/VR/Prefabs/OVRHandPrefab.prefab
+- "Assets/Env/\u6A39/Mobile/baum ld2 mobile.prefab"
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/InteractableToolsSDKDriver.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/(Prefab)/OVRCameraRigWithCustomHand.prefab
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/NearFieldItems.prefab
+- "Assets/Env/\u6CB9\u68761.prefab"
+- Assets/(Prefab)/HighlightGlow.prefab
+- Assets/Oculus/VR/Prefabs/OVRControllerPrefab.prefab
+Dependencies:
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/WorkspaceUnity2020.1.x/Forklift20201201v23/OVRAssetBundles/OVRMasterBundle/asset_wav0

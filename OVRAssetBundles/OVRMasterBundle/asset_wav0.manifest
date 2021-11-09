@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 163448562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba89955a3e0a37b50918e15f25f70c16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/TrainWhistleAv01.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Speed_2_Loop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Stop_From_Speed_5.wav
+- Assets/Forklift/Heavy Machinery/Forklift Controller/SFX/ForksMovingLoop_01.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Speed_1_Loop.wav
+- Assets/Forklift/Vehicle Controller/SFX/EngineLoop_01.wav
+- Assets/Forklift/Vehicle Controller/SFX/BackUpBeeper_01.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Speed_3_Loop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Speed_5_Loop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Crossing.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Stop_From_Speed_4.wav
+- Assets/Forklift/Vehicle Controller/SFX/CarHorn_01.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Stop_From_Speed_3.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Speed_4_Loop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Moo_Cow.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Windmill_Start.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_SteamBlast_A.wav
+- Assets/Forklift/Heavy Machinery/Forklift Controller/SFX/ForksStopMoving_01.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Start_From_Stop_v01.wav
+- Assets/Forklift/Vehicle Controller/SFX/StartEngine_01.wav
+- Assets/Forklift/Vehicle Controller/SFX/Skid.wav
+- Assets/Forklift/Heavy Machinery/Forklift Controller/SFX/ForksStartMoving_01.wav
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio/ButtonUp.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Windmill_Stop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Windmill_Rotate_Fast_Loop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Stop_From_Speed_2.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Windmill_Rotate_Slow_Loop.wav
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Audio/Train_Stop_From_Speed_1.wav
+Dependencies: []

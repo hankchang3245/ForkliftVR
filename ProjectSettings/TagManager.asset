@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Start
+  - End
+  - VRUIBackground
+  - VRUIText
+  - VRUIButtonIcon
+  - VRUIIcon
+  - Ground
+  - TrafficPole
+  - Line_Yellow
+  - Line_White
+  - Player_Fork
+  - Player_Body
+  - Player_FLWheel
+  - Player_FRWheel
+  - Player_RLWheel
+  - Player_RRWheel
+  - FL_Body
+  - OilDrum_Pallet
+  - OilDrum_1
+  - OilDrum_2
+  - FL_ALIGN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Minimap
+  - RestartLocation
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 760790377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20b73e37e7f369da3322172bd619914e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4d58da2e394c3ac790f4c422276af4f
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+Assets:
+- Assets/(Material)/phy_Ground.physicMaterial
+Dependencies: []
